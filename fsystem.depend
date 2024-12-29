@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1722601645 source:c:\users\tembo\desktop\fs\fsystem\main.c
+	<gtk/gtk.h>
+	<gdk-pixbuf/gdk-pixbuf.h>
+	"filesystem.h"
+
+1722602085 c:\users\tembo\desktop\fs\fsystem\filesystem.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
